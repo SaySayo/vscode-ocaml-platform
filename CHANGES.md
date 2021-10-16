@@ -1,6 +1,7 @@
 # Change Log
 
 ## Unreleased
+- Dune syntax highlighting fix (#742)
 
 - Warn if the extension sees not the latest OCaml-LSP version compatible with
   the OCaml distribution installed in the current sandbox.
@@ -9,6 +10,7 @@
 
 - Activate extension on cram files, or when the workspace contains
   dune-workspace or dune files. (#750)
+
 
 - Add commands `Jump to Next Typed Hole` (shortcut: `Alt + L`) and
   `Jump to Previous Typed Hole` (shortcut: `Alt + Shift + L`)
